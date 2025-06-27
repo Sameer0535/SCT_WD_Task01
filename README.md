@@ -37,11 +37,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## ✨ Demo Preview
-Coming Soon...
-
----
-
 ## 👤 Author
 SAMEER R
 Intern – Skillcraft Technology (Web Development Track)
