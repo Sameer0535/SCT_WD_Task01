@@ -2,6 +2,8 @@
 
 This repository contains the submission for *Task 1* of the *Web Development Track* under *Skillcraft Technology*.
 
+---
+
 ## 📌 Task Description
 
 Design and implement a *Responsive Landing Page* with the following key features:
